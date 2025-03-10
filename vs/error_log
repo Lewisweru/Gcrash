@@ -1,0 +1,158 @@
+[21-Feb-2024 18:57:39 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:06 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:14 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:23 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:52 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:58 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:27 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:43 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:02:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:07:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[21-Feb-2024 20:14:09 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:14:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:14:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:22:47 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:40:57 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:40:59 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 14
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 15
+[21-Feb-2024 20:54:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 17:37:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:38:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:40:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 18:48:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:27:54 UTC] PHP Warning:  Division by zero in /home/biggujar/public_html/link.php on line 30
+[22-Feb-2024 19:30:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:40:19 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/updateotp.php:49) in /home/tncpsl/gcrash.com/updateotp.php on line 50
+[22-Mar-2024 18:30:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/avipre1.php:22) in /home/tncpsl/gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/avipre1.php:22) in /home/tncpsl/gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/avipre1.php:22) in /home/tncpsl/gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/avipre1.php:22) in /home/tncpsl/gcrash.com/avipre1.php on line 23
+[29-Mar-2024 04:26:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/upi.php on line 47
+[29-Mar-2024 04:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/gcrash.com/reward.php:28) in /home/tncpsl/gcrash.com/reward.php on line 29
+[30-Mar-2024 07:47:13 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/gcrash.com/upi.php on line 47
+[23-Apr-2024 08:06:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/gcrash.com/adminverify.php on line 50
+[23-Apr-2024 09:44:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/gcrash.com/adminverify.php on line 50
+[24-Apr-2024 10:41:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/gcrash.com/adminverify.php on line 50
+[24-Apr-2024 10:43:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/gcrash.com/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[24-Apr-2024 10:44:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/gcrash.com/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[24-Apr-2024 10:44:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/gcrash.com/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[24-Apr-2024 10:44:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/gcrash.com/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[25-Apr-2024 08:32:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/gcrash.com/adminverify.php on line 50
+[25-Apr-2024 13:19:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/tncpsl/gcrash.com/adminverify.php on line 50
+[25-Apr-2024 13:19:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/tncpsl/gcrash.com/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/notice.php on line 47
+[25-Apr-2024 13:20:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "api" in /home/tncpsl/gcrash.com/updateotp.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/tncpsl/gcrash.com/updateotp.php on line 14
+[01-Aug-2024 14:51:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/xmrctezn/public_html/upi.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/upi.php on line 47
+[01-Aug-2024 14:51:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/xmrctezn/public_html/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/notice.php on line 47
+[01-Aug-2024 14:52:07 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/xmrctezn/public_html/link.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/link.php on line 30
+[01-Aug-2024 14:54:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Aniket' for key 'username' in /home/xmrctezn/public_html/adduser.php:63
+Stack trace:
+#0 /home/xmrctezn/public_html/adduser.php(63): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/adduser.php on line 63
+[01-Aug-2024 14:55:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Aman' for key 'username' in /home/xmrctezn/public_html/adduser.php:63
+Stack trace:
+#0 /home/xmrctezn/public_html/adduser.php(63): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/adduser.php on line 63
+[02-Aug-2024 12:10:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/xmrctezn/public_html/adminverify.php on line 50
+[02-Aug-2024 12:32:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/xmrctezn/public_html/adminverify.php on line 50
+[02-Aug-2024 12:35:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/xmrctezn/public_html/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/notice.php on line 47
+[03-Aug-2024 18:15:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/xmrctezn/public_html/adminverify.php on line 50
+[03-Aug-2024 18:15:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:15:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:15:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:15:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:21:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:22:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:22:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[03-Aug-2024 18:22:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/xmrctezn/public_html/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/notice.php on line 47
+[03-Aug-2024 18:22:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "notice" in /home/xmrctezn/public_html/notice.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/notice.php on line 47
+[03-Aug-2024 18:23:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=1' at line 1 in /home/xmrctezn/public_html/accept.php:21
+Stack trace:
+#0 /home/xmrctezn/public_html/accept.php(21): mysqli->query()
+#1 {main}
+  thrown in /home/xmrctezn/public_html/accept.php on line 21
+[05-Aug-2024 05:19:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/xmrctezn/public_html/adminverify.php on line 50
+[05-Aug-2024 05:20:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/xmrctezn/public_html/upi.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/xmrctezn/public_html/upi.php on line 47
+[09-Mar-2025 20:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/gcrashco/public_html/pre.php:22) in /home6/gcrashco/public_html/pre.php on line 23
+[09-Mar-2025 20:36:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/gcrashco/public_html/pre.php:22) in /home6/gcrashco/public_html/pre.php on line 23
+[09-Mar-2025 20:36:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home6/gcrashco/public_html/beconepre.php:22) in /home6/gcrashco/public_html/beconepre.php on line 23
+[09-Mar-2025 22:02:26 UTC] PHP Warning:  Use of undefined constant usercode - assumed 'usercode' (this will throw an Error in a future version of PHP) in /home6/gcrashco/public_html/inviterec.php on line 34
+[10-Mar-2025 09:41:12 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home6/gcrashco/public_html/notice.php on line 47
+[10-Mar-2025 09:41:22 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home6/gcrashco/public_html/notice.php on line 47

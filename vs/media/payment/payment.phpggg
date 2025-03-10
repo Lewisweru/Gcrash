@@ -1,0 +1,79 @@
+<?php 
+session_start(); 
+ 
+// Get action type from GET parameter 
+$action = isset($_GET['action']) ? $_GET['action'] : 'default'; 
+ 
+$post = [ 
+    'type' => "deposit", 
+    'api' => '53323e295eeb4897b81b769b9330f322', 
+    'merchant' => '888169219', 
+    'order' => 'MONUxx'.$_GET['user'].'xx'.time(), 
+    'callback' => 'https://gcrash.com/payment/confirm.php', 
+    'pay_type' => '102', 
+    'amount' => $_GET['am'], 
+]; 
+ 
+// Function to make a POST request 
+function post($url, $data) 
+{ 
+    $curl = curl_init($url); 
+    curl_setopt($curl, CURLOPT_POST, true); 
+    curl_setopt($curl, CURLOPT_POSTFIELDS, $data); 
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true); 
+    $response = curl_exec($curl); 
+ 
+    if ($response === false) { 
+        echo 'Curl error: ' . curl_error($curl); 
+        die(); 
+    } 
+ 
+    curl_close($curl); 
+ 
+    return $response; 
+} 
+ 
+// Determine URL based on the desired action 
+switch ($action) { 
+    case 'pay_order': 
+        $url = "https://pay.sunpayonline.xyz/pay/web"; 
+        break; 
+    case 'place_order': 
+        $url = "https://pay.sunpayonline.xyz/pay/transfer"; 
+        break; 
+    case 'payment_inquiry': 
+        $url = "https://pay.sunpayonline.xyz/query/transfer"; 
+        break; 
+    case 'balance_query': 
+        $url = "https://pay.sunpayonline.xyz/query/balance"; 
+        break; 
+    default: 
+        $url = "https://primewin.live/wowpay.php"; // Default endpoint if no action is specified 
+        break; 
+} 
+ 
+$response = post($url, $post); 
+ 
+try { 
+    $jsonResponse = json_decode($response, true); 
+ 
+    if ($jsonResponse === null && json_last_error() !== JSON_ERROR_NONE) { 
+        throw new Exception("Unable to decode the API response as JSON."); 
+    } 
+ 
+    $status = isset($jsonResponse['status']) ? $jsonResponse['status'] : ''; 
+    $payUrl = isset($jsonResponse['payUrl']) ? $jsonResponse['payUrl'] : ''; 
+ 
+    if ($status == 'SUCCESS' && !empty($payUrl)) { 
+        header("Location: $payUrl"); 
+        exit; 
+    } else { 
+        echo "Error: $status - $payUrl"; 
+        if ($status == 'FAIL' && isset($jsonResponse['error'])) { 
+            echo "<br>Error Message: " . $jsonResponse['error']; 
+        } 
+    } 
+} catch (Exception $e) { 
+    echo "Error: " . $e->getMessage(); 
+} 
+?>

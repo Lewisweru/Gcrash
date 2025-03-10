@@ -1,0 +1,42 @@
+[21-Feb-2024 18:57:39 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:06 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:14 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 18:58:23 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:52 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:00:58 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:27 UTC] PHP Warning:  Use of undefined constant upi1 - assumed 'upi1' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:43 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:01:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 19:02:03 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:07:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[21-Feb-2024 20:14:09 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:14:14 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:14:25 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:22:47 UTC] PHP Warning:  Use of undefined constant notice - assumed 'notice' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/notice.php on line 47
+[21-Feb-2024 20:40:57 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:40:59 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 14
+[21-Feb-2024 20:43:59 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/updateotp.php on line 15
+[21-Feb-2024 20:54:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 17:37:56 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:38:39 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[22-Feb-2024 17:40:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 18:48:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:27:54 UTC] PHP Warning:  Division by zero in /home/biggujar/public_html/link.php on line 30
+[22-Feb-2024 19:30:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/biggujar/public_html/accept.php on line 22
+[22-Feb-2024 19:40:19 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/upi.php on line 47
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:34:43 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:41:15 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant api - assumed 'api' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 14
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/updateotp.php on line 15
+[04-Mar-2024 17:41:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/updateotp.php:49) in /home/tncpsl/Gcrash.com/updateotp.php on line 50
+[22-Mar-2024 18:30:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/avipre1.php:22) in /home/tncpsl/Gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:32:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/avipre1.php:22) in /home/tncpsl/Gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:33:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/avipre1.php:22) in /home/tncpsl/Gcrash.com/avipre1.php on line 23
+[22-Mar-2024 18:34:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/avipre1.php:22) in /home/tncpsl/Gcrash.com/avipre1.php on line 23
+[29-Mar-2024 04:26:27 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/upi.php on line 47
+[29-Mar-2024 04:26:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tncpsl/Gcrash.com/reward.php:28) in /home/tncpsl/Gcrash.com/reward.php on line 29
+[30-Mar-2024 07:47:13 UTC] PHP Warning:  Use of undefined constant upi - assumed 'upi' (this will throw an Error in a future version of PHP) in /home/tncpsl/Gcrash.com/upi.php on line 47
+[02-Apr-2024 08:42:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tncpsl/Gcrash.com/a.php on line 155

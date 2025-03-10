@@ -1,0 +1,2 @@
+[22-Feb-2024 19:28:01 UTC] PHP Warning:  Use of undefined constant amount - assumed 'amount' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/lucky/lifafa.php on line 19
+[22-Feb-2024 19:28:01 UTC] PHP Warning:  Use of undefined constant share - assumed 'share' (this will throw an Error in a future version of PHP) in /home/biggujar/public_html/lucky/lifafa.php on line 20
