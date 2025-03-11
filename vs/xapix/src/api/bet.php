@@ -385,9 +385,7 @@ if ($action == 'info') {
 	echo json_encode($data);
 }else if ($action == 'reset') {
 	$user = $_POST['username'];
-	$otp=$_POST["code"];
 
-	$query0 =  "SELECT  username FROM verify  WHERE otp='$otp' ORDER BY id DESC";
 	$result3 =$conn->query($query0);
 	$row3 = mysqli_fetch_assoc($result3);
 	if(isset($row3['username'])){
@@ -426,7 +424,6 @@ if ($action == 'info') {
 	
 	
 		$data = array();
-		$status="Incorrect otp";
 		array_push($data, ['status' => $status]);
 		echo json_encode($data);
 	}
@@ -1307,9 +1304,7 @@ ORDER BY bonus.id DESC; ";
 	
 }else if ($action == 'register') {
 	$user = $_POST['username'];
-	$otp=$_POST["code"];
 	$ip=getenv("REMOTE_ADDR");
-	$query0 =  "SELECT  username FROM verify  WHERE otp='$otp' ORDER BY id DESC";
 	$result3 =$conn->query($query0);
 	$row3 = mysqli_fetch_assoc($result3);
 	if(isset($row3['username'])){
@@ -1367,7 +1362,6 @@ ORDER BY bonus.id DESC; ";
 	
 	
 		$data = array();
-		$status="Incorrect otp";
 		array_push($data, ['status' => $status]);
 		echo json_encode($data);
 	}
